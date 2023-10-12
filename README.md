@@ -1,4 +1,5 @@
 #twitterのようなSNS（掲示板？）のようなものを作成しました。React.js,Firebase Authentication,Firebase FireStoreを使用しました。
+googleアカウントで認証しログインすることで記事を作成・削除できます。
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
